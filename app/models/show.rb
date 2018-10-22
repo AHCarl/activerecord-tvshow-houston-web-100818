@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Show < ActiveRecord::Base
 
   def self.highest_rating
@@ -29,4 +30,9 @@ class Show < ActiveRecord::Base
   end 
 
 
+=======
+class Show < ActiveRecord::Base 
+  
+  
+>>>>>>> 6ddbff4b4f1ee444338c332c965ce831d76d99e7
 end
